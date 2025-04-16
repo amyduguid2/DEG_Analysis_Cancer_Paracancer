@@ -63,11 +63,11 @@ This project contains the analysis pipeline for identifying differentially expre
 
 **Heatmap of Top DEGs Upregulated in Paracancer Tissue**
 
-![Heatmap Upregulated](figures/heatmap_plot_up.png)
+![Heatmap Upregulated](figures/up_heatmap_plot.png)
 
 **Heatmap of Top DEGs Downregulated in Paracancer Tissue**
 
-![Heatmap Downregulated](figures/heatmap_plot_down.png)
+![Heatmap Downregulated](figures/down_heatmap_plot.png)
 
 **GSEA Plot**
 
