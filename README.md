@@ -61,11 +61,11 @@ This project contains the analysis pipeline for identifying differentially expre
 
 ![Volcano Plot](figures/volcano_plot.png)
 
-**Heatmap of Top Upregulated DEGs**
+**Heatmap of Top DEGs Upregulated in Paracancer Tissue**
 
 ![Heatmap Upregulated](figures/heatmap_plot_up.png)
 
-**Heatmap of Top downregulated DEGs**
+**Heatmap of Top DEGs Downregulated in Paracancer Tissue**
 
 ![Heatmap Downregulated](figures/heatmap_plot_down.png)
 
